@@ -1,0 +1,7 @@
+﻿# Ignore secrets and local noise
+.env
+.env.*
+*.pem
+*.key
+credentials*
+storage/
